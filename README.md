@@ -68,3 +68,5 @@ Design and develop a city view model scenario using OpenGL and glut.
 
 
 ## Youtube video:
+
+https://youtu.be/HvBX4CxfhH4
